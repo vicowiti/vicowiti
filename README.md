@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://vowiti.netlify.app/](https://vowiti.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://viowiti.netlify.app/](https://viowiti.netlify.app/)
 
 - 📫 How to reach me **viowiti12@gmail.com**
 
