@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/victorr_js" target="blank"><img src="https://img.shields.io/twitter/follow/victorr_js?logo=twitter&style=for-the-badge" alt="victorr_js" /></a> </p>
 
-- 🔭 I’m currently working on **Jrn Devs Job Board**
+- 🔭 I’m currently working on **Classic food ordering App**
 
 - 🌱 I’m currently learning **Redux**
 
